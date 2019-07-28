@@ -7,7 +7,7 @@
   * 文理学院
   * 应用科学及工程学院
  
-This repository contains selected course calendars from University of Toronto.
+This repository contains selected course calendars from University of Toronto. The following faculties included:
   * Faculty of Art and Science
   * Faculty of Applied Science and Engineering
 
